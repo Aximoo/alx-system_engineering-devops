@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Change localhostt to 127.0.0.2
+# Change localhost to 127.0.0.2
 # Change facebook.com to 8.8.8.8
 
 cp /etc/hosts ~/hosts.new
